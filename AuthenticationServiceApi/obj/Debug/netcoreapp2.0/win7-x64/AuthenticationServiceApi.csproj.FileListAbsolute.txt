@@ -1,0 +1,16 @@
+C:\Vision-2-Reality\Projects\2018\5\7\AuthenticationServiceApp\AuthenticationServiceApi\obj\Debug\netcoreapp2.0\win7-x64\AuthenticationServiceApi.csproj.CoreCompileInputs.cache
+C:\Vision-2-Reality\Projects\2018\5\7\AuthenticationServiceApp\AuthenticationServiceApi\obj\Debug\netcoreapp2.0\win7-x64\AuthenticationServiceApi.AssemblyInfoInputs.cache
+C:\Vision-2-Reality\Projects\2018\5\7\AuthenticationServiceApp\AuthenticationServiceApi\obj\Debug\netcoreapp2.0\win7-x64\AuthenticationServiceApi.AssemblyInfo.cs
+C:\Vision-2-Reality\Projects\2018\5\7\AuthenticationServiceApp\AuthenticationServiceApi\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Vision-2-Reality\Projects\2018\5\7\AuthenticationServiceApp\AuthenticationServiceApi\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Vision-2-Reality\Projects\2018\5\7\AuthenticationServiceApp\AuthenticationServiceApi\bin\Debug\netcoreapp2.0\win7-x64\AuthenticationServiceApi.exe
+C:\Vision-2-Reality\Projects\2018\5\7\AuthenticationServiceApp\AuthenticationServiceApi\bin\Debug\netcoreapp2.0\win7-x64\AuthenticationServiceApi.deps.json
+C:\Vision-2-Reality\Projects\2018\5\7\AuthenticationServiceApp\AuthenticationServiceApi\bin\Debug\netcoreapp2.0\win7-x64\AuthenticationServiceApi.runtimeconfig.json
+C:\Vision-2-Reality\Projects\2018\5\7\AuthenticationServiceApp\AuthenticationServiceApi\bin\Debug\netcoreapp2.0\win7-x64\AuthenticationServiceApi.runtimeconfig.dev.json
+C:\Vision-2-Reality\Projects\2018\5\7\AuthenticationServiceApp\AuthenticationServiceApi\bin\Debug\netcoreapp2.0\win7-x64\AuthenticationServiceApi.dll
+C:\Vision-2-Reality\Projects\2018\5\7\AuthenticationServiceApp\AuthenticationServiceApi\obj\Debug\netcoreapp2.0\win7-x64\AuthenticationServiceApi.csprojResolveAssemblyReference.cache
+C:\Vision-2-Reality\Projects\2018\5\7\AuthenticationServiceApp\AuthenticationServiceApi\bin\Debug\netcoreapp2.0\win7-x64\AuthenticationServiceApi.pdb
+C:\Vision-2-Reality\Projects\2018\5\7\AuthenticationServiceApp\AuthenticationServiceApi\bin\Debug\netcoreapp2.0\win7-x64\ICommonInterface.dll
+C:\Vision-2-Reality\Projects\2018\5\7\AuthenticationServiceApp\AuthenticationServiceApi\obj\Debug\netcoreapp2.0\win7-x64\AuthenticationServiceApi.csproj.CopyComplete
+C:\Vision-2-Reality\Projects\2018\5\7\AuthenticationServiceApp\AuthenticationServiceApi\obj\Debug\netcoreapp2.0\win7-x64\AuthenticationServiceApi.dll
+C:\Vision-2-Reality\Projects\2018\5\7\AuthenticationServiceApp\AuthenticationServiceApi\obj\Debug\netcoreapp2.0\win7-x64\AuthenticationServiceApi.pdb
