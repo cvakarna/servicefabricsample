@@ -112,14 +112,14 @@ namespace AuthenticationServiceApi
                                     .Build();
                     }),name:"KestrelCommunicationListener"),
 
-               new ServiceInstanceListener((context) =>
-                {
+                  new ServiceInstanceListener((context) =>
+                 {
 
-                    // return new FabricTransportServiceRemotingListener(context, this);
+                // return new FabricTransportServiceRemotingListener(context, this);
 
-                      return new FabricTransportServiceRemotingListener(context, this,new Microsoft.ServiceFabric.Services.Remoting.FabricTransport.Runtime.FabricTransportRemotingListenerSettings(){EndpointResourceName = "ServiceEndpointV2" });
+                return new FabricTransportServiceRemotingListener(context, this,new Microsoft.ServiceFabric.Services.Remoting.FabricTransport.Runtime.FabricTransportRemotingListenerSettings(){EndpointResourceName = "ServiceEndpointV2" });
 
-                }),
+               }, name: "RemotingListener"),
 
             };
         }
